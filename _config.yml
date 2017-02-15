@@ -1,2 +1,3 @@
 name: Narendra Avula
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
